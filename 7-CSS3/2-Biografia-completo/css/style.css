@@ -1,0 +1,21 @@
+/*Seção tags*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Seção classes*/
+.top-container {
+  background-color: #D99D81;
+  width: 200px;
+  height: 200px;
+  border: 18px solid;
+}
+.middle-container{
+
+}
+
+.bottom-container {
+  background-color: rgb(125, 12, 186);
+
+}

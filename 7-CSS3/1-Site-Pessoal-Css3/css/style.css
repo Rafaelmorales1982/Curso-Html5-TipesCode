@@ -1,0 +1,19 @@
+body {
+    background-color: #394867;
+}
+
+hr {
+    border-style: none;
+    /*tirando a borda da linha horizontal*/
+    background-color: #ffffff;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #000;
+    border-width: 6px;
+    width: 5%;
+  
+}
+
+h1, h2, h3 {
+   color:  #66bfbf;
+}
